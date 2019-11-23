@@ -1,0 +1,17 @@
+body{
+    background-image: url(../images/baseball.jpg);
+    background-size: 200px;
+    background-repeat: repeat-y;
+    margin-left: 210px;
+
+}
+header h1{
+    position: relative;
+    font-size: 90px;
+    color: #581f37;
+    /*remove default bold*/
+    font-weight: normal;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
